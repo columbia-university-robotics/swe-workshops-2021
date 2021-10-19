@@ -22,7 +22,7 @@ Here are some good readings to understand the overarching concepts of ROS nodes 
 
 Here is a quick challenge! Use the following link to figure out how to transmit two different data types!
 
-[Link to standard message datatypes)[http://wiki.ros.org/std_msgs]
+[Link to standard message datatypes)(http://wiki.ros.org/std_msgs)
 
 Good luck! Have fun! Please feel free to reach out to Anil, Nihar, Neil, or Adi if you have any questions!!
 
